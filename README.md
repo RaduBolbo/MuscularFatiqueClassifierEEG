@@ -10,6 +10,7 @@ Classical AI algorithms rely on extracted features to simplify problem complexit
 - **Mean Absolute Value (MAV):** Represents the average absolute muscle activity.
 - **Waveform Length (WL):** Quantifies amplitude variations over time.
 - **Root Mean Square (RMS):** Indicates energy levels in sEMG signals.
+
   
 - **Zero Crossing Rate (ZCR):** Indicates how often the signal crosses zero.
 - **Slope Sign Changes (SSC):** Counts how many times the signal's slope changes.
